@@ -14,8 +14,10 @@ Kimeklis AK, Gladkov GV, Tembotov RH, Kichko AA, Pinaev AG, Hosid SL, Andronov E
 
 ### Some code/manuals for colleagues. 
 
-ancombc_demonstaration_straw.html 
+[ancombc_demonstaration_straw](manuals/ancombc_demonstaration_straw.html)
 
 Russian. Demonstaration of the AncomBC package.
 
-align_clean.html
+[align_clean](manuals/align_clean.html)
+
+Russian. Some multiple alignment tricks for 16S dataset.
