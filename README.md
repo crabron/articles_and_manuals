@@ -15,10 +15,10 @@ Kimeklis AK, Gladkov GV, Tembotov RH, Kichko AA, Pinaev AG, Hosid SL, Andronov E
 
 ### Some code/manuals for colleagues. 
 
-[ancombc_demonstaration_straw](manuals/ancombc_demonstaration_straw.html)
+[ANCOM-BC demonstration on the straw degradation chronoseries](manuals/ancombc_demonstaration_straw.html)
 
-Russian. Demonstaration of the AncomBC package.
+Russian. Demonstration of the AncomBC package.
 
-[align_clean](manuals/align_clean.html)
+[Jupyter notebook with 16S alignment example](manuals/align_clean.html)
 
-Russian. Some multiple alignment tricks for 16S dataset.
+Russian. Some multiple alignment tricks for the 16S dataset.
