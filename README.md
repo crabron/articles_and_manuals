@@ -22,3 +22,7 @@ Russian. Demonstration of the AncomBC package.
 [Jupyter notebook with 16S alignment example](manuals/align_clean.html)
 
 Russian. Some multiple alignment tricks for the 16S dataset.
+
+[WGCNA - straw](manuals/straw_wgcna.html)
+
+Russian. Using WGCNA to isolate dynamic groups in straw decomposition chronoseries.
