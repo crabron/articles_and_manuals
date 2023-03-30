@@ -27,8 +27,8 @@ Russian. Some multiple alignment tricks for the 16S dataset.
 
 Using WGCNA to isolate dynamic groups in straw decomposition chronoseries.
 
-Preprint: Kimeklis, A.K.; Gladkov, G.V.; Orlova, O.V.; Afonin, A.M.; Gribchenko, E.S.; Aksenova, T.S.; Kichko, A.A.; Pinaev, A.G.; Andronov, E.E. The Succession of the Cellulolytic Microbial Community from the Soil during Oat Straw Decomposition . Preprints 2022, 2022120246 (doi: 10.20944/preprints202212.0246.v1).
+Kimeklis AK, Gladkov GV, Orlova OV, Afonin AM, Gribchenko ES, Aksenova TS, Kichko AA, Pinaev AG, Andronov EE. The Succession of the Cellulolytic Microbial Community from the Soil during Oat Straw Decomposition. International Journal of Molecular Sciences. 2023; 24(7):6342. https://doi.org/10.3390/ijms24076342 
 
 [pulkovo](manuals/pulkovo.html)
 
-
+Russian. Salinity stress - change beetween rare and abundant component of soil microbiome. Interrupted.
